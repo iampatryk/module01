@@ -11,7 +11,7 @@ public class Main {
 
         System.out.println("ZADANIE 1: " + "\n");
 
-        // Trzy rozne instancje projektu:
+        // Trzy rozne instancje projektu :
 
         Car one = new Car(2230, "Audi", "Q8");
         Car two = new Car(1500, "Fiat", "500");

@@ -14,7 +14,7 @@ public class Car {
         this.model = model;
     }
 
-    //MODYFIKATORY DOSTEPU
+    //MODYFIKATORY DOSTEPU.
     public int getWeight() {
         return weight;
     }
